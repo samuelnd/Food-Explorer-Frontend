@@ -10,7 +10,7 @@ export const Credit = ({paymentMethod}) => {
     <Container>
 
       <div className="creditCardNumber">
-        <label htmlFor="creditCardNumber">Número do Cartão</label>
+        <label htmlFor="creditCardNumber">Número do Cartão de Crédito</label>
         <input type="text" name="creditCardNumber" id="creditCardNumber"  placeholder="0000 0000 0000 0000"/>
       </div>
 
@@ -18,11 +18,11 @@ export const Credit = ({paymentMethod}) => {
       <OtherInformation>
         <div>
           <label htmlFor="valid">Validade</label>
-          <input type="text" name="valid" id="valid" placeholder="04/25" />
+          <input type="text" name="valid" id="valid" placeholder="06/29" />
         </div>
         <div>
           <label htmlFor="cvc">CVC</label>
-          <input type="text" name="cvc" id="cvc"  placeholder="04/25"/>
+          <input type="text" name="cvc" id="cvc"  placeholder="000"/>
         </div>
       </OtherInformation>
 
