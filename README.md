@@ -12,6 +12,8 @@ Tecnologias
 
 Acesse o deploy pelo https://food-explorer-samuel.netlify.app/
 
+-- Para acessar como admin, utilize adm@testeexplorer.com e senha: 123456
+
 ## Autores
 
 - [@samuelnd](https://www.github.com/samuelnd)
